@@ -1,0 +1,6 @@
+@BuildSheetCloudWebService_HostAddress = http://localhost:5080
+
+GET {{BuildSheetCloudWebService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
